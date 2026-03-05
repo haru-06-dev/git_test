@@ -1,2 +1,10 @@
 Hello this is a lesson on 
 git basics section of the Odin project
+
+Testing:
+To make a commit with Visual Studio Code as the text editor,
+just type git commit.
+After you hit Enter a new tab in VS Code will open for you to write your commit message.
+You may provide more details on multiple lines as part of your commit message.
+After typing your commit message, save it Ctrl + S (Mac: Cmd + S) and close the tab.
+If you return to the command line, you will see your commit message and a summary of your changes.
